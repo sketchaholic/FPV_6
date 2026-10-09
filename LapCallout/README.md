@@ -2,9 +2,9 @@
 
 Type in an FPV lap time and hear it read out like a race timer, then save it as a `.wav` file you can drop into your video edits (DaVinci Resolve, Premiere, etc.).
 
-![Lap Callout app](docs/screenshot.png)
+![Lap Callout app](screenshot.png)
 
-> *"Vi, lap 3, 23.45, total, 1 minute, 10.35"*
+> *"Pilot Name, lap 3, 23.45, total, 1 minute, 10.35"*
 
 Lap timers like RotorHazard and FPVTrackside read lap times with your computer's built-in text-to-speech voice. Lap Callout uses those same voices (Microsoft David / Zira on Windows), so your edited flight videos sound like a real race.
 
